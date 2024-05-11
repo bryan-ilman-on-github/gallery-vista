@@ -4,24 +4,7 @@
             "outputFile": "io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-10:/values-in/values-in.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Bryan\\.gradle\\caches\\transforms-3\\0235b77ff31bafac24f24ba4755d72b8\\transformed\\core-1.10.1\\res\\values-in\\values-in.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,150,252,349,446,552,670,785",
-                        "endColumns": "94,101,96,96,105,117,114,100",
-                        "endOffsets": "145,247,344,441,547,665,780,881"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,13",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,150,252,349,446,552,670,1193",
-                        "endColumns": "94,101,96,96,105,117,114,100",
-                        "endOffsets": "145,247,344,441,547,665,780,1289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Bryan\\.gradle\\caches\\transforms-3\\b1acc2901c10af5ded931c46dd883cb9\\transformed\\browser-1.5.0\\res\\values-in\\values-in.xml",
+                    "source": "C:\\Users\\bryan\\.gradle\\caches\\transforms-3\\0f0a0b9b8e7f98a0c4f2ad395a674457\\transformed\\browser-1.5.0\\res\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "785,885,983,1092",
                         "endColumns": "99,97,108,100",
                         "endOffsets": "880,978,1087,1188"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bryan\\.gradle\\caches\\transforms-3\\f0b958d87a7bb7676134d49e1b1a73a1\\transformed\\core-1.10.1\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,349,446,552,670,785",
+                        "endColumns": "94,101,96,96,105,117,114,100",
+                        "endOffsets": "145,247,344,441,547,665,780,881"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,13",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,349,446,552,670,1193",
+                        "endColumns": "94,101,96,96,105,117,114,100",
+                        "endOffsets": "145,247,344,441,547,665,780,1289"
                     }
                 }
             ]
@@ -43,24 +43,7 @@
             "outputFile": "io.flutter.plugins.urllauncher.url_launcher_android-merged_res-12:/values-in/values-in.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Bryan\\.gradle\\caches\\transforms-3\\0235b77ff31bafac24f24ba4755d72b8\\transformed\\core-1.10.1\\res\\values-in\\values-in.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,150,252,349,446,552,670,785",
-                        "endColumns": "94,101,96,96,105,117,114,100",
-                        "endOffsets": "145,247,344,441,547,665,780,881"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,13",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,150,252,349,446,552,670,1193",
-                        "endColumns": "94,101,96,96,105,117,114,100",
-                        "endOffsets": "145,247,344,441,547,665,780,1289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Bryan\\.gradle\\caches\\transforms-3\\b1acc2901c10af5ded931c46dd883cb9\\transformed\\browser-1.5.0\\res\\values-in\\values-in.xml",
+                    "source": "C:\\Users\\bryan\\.gradle\\caches\\transforms-3\\0f0a0b9b8e7f98a0c4f2ad395a674457\\transformed\\browser-1.5.0\\res\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -74,6 +57,23 @@
                         "startOffsets": "785,885,983,1092",
                         "endColumns": "99,97,108,100",
                         "endOffsets": "880,978,1087,1188"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bryan\\.gradle\\caches\\transforms-3\\f0b958d87a7bb7676134d49e1b1a73a1\\transformed\\core-1.10.1\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,349,446,552,670,785",
+                        "endColumns": "94,101,96,96,105,117,114,100",
+                        "endOffsets": "145,247,344,441,547,665,780,881"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,13",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,349,446,552,670,1193",
+                        "endColumns": "94,101,96,96,105,117,114,100",
+                        "endOffsets": "145,247,344,441,547,665,780,1289"
                     }
                 }
             ]

@@ -1,12 +1,12 @@
 <lint-module
     format="1"
-    dir="C:\Users\Bryan\OneDrive\Documents\galleryvista\android\app"
+    dir="C:\Users\bryan\Documents\gallery-vista\android\app"
     name=":app"
     type="APP"
     maven="android:app:"
     gradle="7.3.0"
-    buildFolder="C:\Users\Bryan\OneDrive\Documents\galleryvista\build\app"
-    bootClassPath="C:\Users\Bryan\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\Bryan\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    buildFolder="C:\Users\bryan\Documents\gallery-vista\build\app"
+    bootClassPath="C:\Users\bryan\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\bryan\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-34">
   <lintOptions

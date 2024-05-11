@@ -1,0 +1,1 @@
+ C:\\Users\\bryan\\Documents\\gallery-vista\\.dart_tool\\flutter_build\\9f66c328c56bd0f185c07369863caaf7\\native_assets.yaml: 
